@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="unix-time" uuid="8E663239E0B94F069D7D3AD0F25EA6BE" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+</base>

@@ -1,0 +1,20 @@
+﻿{
+	"methods": {
+		"CONVERT_UNIXTIME": {
+			"timeStamp": "2021-09-10T00:54:13.220Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"TEST": {
+			"timeStamp": "2021-09-10T00:57:19.573Z"
+		},
+		"CURRENT_UNIXTIME": {
+			"timeStamp": "2021-09-10T00:42:13.252Z",
+			"attributes": {
+				"invisible": true,
+				"preemptive": "capable"
+			}
+		}
+	}
+}
